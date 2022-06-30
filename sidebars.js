@@ -40,6 +40,7 @@ const sidebars = {
       collapsed: true,
       items: [
         'user-manuals/colocation-profile',
+        'user-manuals/load-aware-scheduling',
       ],
     },
     {
